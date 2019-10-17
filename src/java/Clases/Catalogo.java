@@ -10,5 +10,5 @@ package Clases;
  * @author aresu
  */
 public class Catalogo {
-    
+    Ordenador ordenador;
 }
